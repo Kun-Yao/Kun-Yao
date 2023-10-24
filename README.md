@@ -1,17 +1,19 @@
-### Hi there 👋
-**【FengChia_undergraduate_senior_project】** 2020.02-2021.01  
+### Hi there 👋  
+This is an overview of each repository
+
+# 【FengChia_undergraduate_senior_project】 2020.02-2021.01  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/KTuyV5Hgyy8/0.jpg)](https://www.youtube.com/watch?v=KTuyV5Hgyy8 "full game")
 
-**【Video_Stream_Tracking】** 2022.09-2023.01  
+# 【Video_Stream_Tracking】 2022.09-2023.01  
 ![image](https://github.com/Kun-Yao/VideoStreamTracking/blob/main/HW1_311551170/dataset.png)
 
-**【IDVR_Final】** 2022.09-2023-01  
+# 【IDVR_Final】 2022.09-2023-01  
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/MnOrTQvB7gk/0.jpg)](https://www.youtube.com/watch?v=MnOrTQvB7gk "IDVR Team3")
 
-**【Deep_Learning_Parctice】** 2023.02-2023.06  
+# 【Deep_Learning_Parctice】 2023.02-2023.06  
 ![image](https://github.com/Kun-Yao/Deep_Learning_Parctice/blob/main/DLP_LAB6_311551170_%E6%9E%97%E7%90%A8%E5%A0%AF/2023-10-08%2021-38-27.gif)
 
-**【Pattern_Recognition】** 2023.02-2023.06  
+# 【Pattern_Recognition】 2023.02-2023.06  
 ![image](https://github.com/Kun-Yao/PatternRecognition/blob/main/Final/images.png)
 
 <!--
