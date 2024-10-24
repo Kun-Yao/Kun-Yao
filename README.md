@@ -1,7 +1,7 @@
 ## Hi there 👋  
 This is an overview of each repository
 
-### [【FengChia_undergraduate_senior_project】 2020.02-2021.01  ](https://github.com/Kun-Yao/FengChia_undergraduate_senior_project)
+### [【FCU_undergraduate_senior_project】 2020.02-2021.01  ](https://github.com/Kun-Yao/FengChia_undergraduate_senior_project)
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/KTuyV5Hgyy8/0.jpg)](https://www.youtube.com/watch?v=KTuyV5Hgyy8 "full game")
 
 ### [【NYCU_Video_Stream_Tracking】 2022.09-2023.01  ](https://github.com/Kun-Yao/Video_Stream_Tracking)
