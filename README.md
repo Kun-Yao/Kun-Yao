@@ -5,6 +5,8 @@ This is an overview of each repository
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/KTuyV5Hgyy8/0.jpg)](https://www.youtube.com/watch?v=KTuyV5Hgyy8 "full game")
 
 ### [【NYCU_Video_Stream_Tracking】 2022.09-2023.01  ](https://github.com/Kun-Yao/Video_Stream_Tracking)
+介紹視訊串流及其應用，例如監控、遠程物體追蹤等。涉及的技術包括物體偵測與定位、物體分類與識別、物體追蹤等的機器學習方法。
+
 ![image](https://github.com/Kun-Yao/VideoStreamTracking/blob/main/HW1_311551170/dataset.png)
 
 ### [【NYCU_IDVR_Final】 2022.09-2023-01  ](https://github.com/Kun-Yao/IDVR_Final)
